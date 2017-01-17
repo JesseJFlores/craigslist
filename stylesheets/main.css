@@ -230,11 +230,7 @@ section {
 @media (max-width: 500px) {
   .cat-wrap {
     display: block;
-    margin: 4%; }
-    .searchbar-big {
-      display: none;
-    }
-  }
+    margin: 4%; } }
 @media (min-width: 501px) and (max-width: 768px) {
   .cat-wrap {
     width: 44%;
