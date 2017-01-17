@@ -198,6 +198,35 @@ section {
       font-family: 'Roboto', sans-serif;
       line-height: 1.5; }
 
+      footer {
+  background-color: #9f9ea3;
+  overflow: hidden;
+  height: 240px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  position: relative; }
+  footer ul {
+    list-style: none;
+    padding-left: 15px;
+    padding-top: 10px; }
+  footer li {
+    padding: 8px; }
+  footer a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #333333; }
+  footer a:hover {
+    color: #016E90;
+    text-decoration: none; }
+  footer .list {
+    float: left;
+    margin-top: 10px; }
+  footer img {
+    width: 180px;
+    position: absolute;
+    top: 160px;
+    right: 40px; }
+
 @media (max-width: 500px) {
   .cat-wrap {
     display: block;
